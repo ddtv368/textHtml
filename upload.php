@@ -1,6 +1,7 @@
 <?php
 // upload.php
 // 我要修改文件
+// 我要创建第三个版本
 // 检查是否有文件上传
 if(isset($_FILES['fileToUpload'])) {
     $targetDirectory = "uploads/"; // 文件上传到的目录
