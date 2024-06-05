@@ -1,8 +1,6 @@
 <?php
 // upload.php
-// 我要修改文件
-// 这个是master分支
-// 合并hot-fix分支
+// 最最新的文件
 // 我要创建第三个版本
 // 检查是否有文件上传
 if(isset($_FILES['fileToUpload'])) {
